@@ -1,0 +1,1 @@
+Taskkill /IM AcroRd32.exe /F
